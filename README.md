@@ -9,4 +9,5 @@ https://qifeng86.github.io/qifeng-homework1/screenshot.JPG
 https://qifeng86.github.io/qifeng-homework1/
 
 # Link to github public repository
+https://github.com/qifeng86/qifeng-homework1.git
 
