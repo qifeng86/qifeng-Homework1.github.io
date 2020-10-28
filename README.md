@@ -5,5 +5,8 @@ All image files are located inside of images folder under assets folder.
 # Screenshot
 https://qifeng86.github.io/qifeng-homework1/screenshot.JPG
 
-# Link to public repository
+# Link to github page
 https://qifeng86.github.io/qifeng-homework1/
+
+# Link to github public repository
+
